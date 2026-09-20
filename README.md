@@ -41,33 +41,6 @@ export default talha;
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/TalhaHabib-hub/OnlineEducationWebsite">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TalhaHabib-hub&repo=OnlineEducationWebsite&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/TalhaHabib-hub/student_ai_platform">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TalhaHabib-hub&repo=student_ai_platform&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/TalhaHabib-hub/Amazon-UI-clone-for-Desktop-only">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TalhaHabib-hub&repo=Amazon-UI-clone-for-Desktop-only&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/TalhaHabib-hub/Tasks-during-Internship-at-HindukushSoft">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TalhaHabib-hub&repo=Tasks-during-Internship-at-HindukushSoft&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 | Project | What it is |
 |---|---|
 | 🎓 **[OnlineEducationWebsite](https://github.com/TalhaHabib-hub/OnlineEducationWebsite)** | Full-stack learning platform — Laravel REST API + React/Vite frontend, with student/instructor/admin roles, courses, quizzes, and payments |
@@ -110,19 +83,6 @@ export default talha;
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
 </div>
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TalhaHabib-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaHabib-hub&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
-
-> If a stats card ever shows broken above, it's the free `github-readme-stats.vercel.app` service hitting its shared rate limit — not your profile. Refreshing the page usually fixes it; a permanent fix is deploying a free personal instance of the project on Vercel.
 
 <br>
 
