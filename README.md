@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:38BDF8,100:8b5cf6&height=220&section=header&text=Talha%20Habib&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20MERN%20%2B%20Laravel%20%7C%20AI%20Enthusiast&descSize=18&descAlignY=58&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:38BDF8,100:8b5cf6&height=140&section=header&animation=fadeIn" alt="header" />
+
+<img src="https://raw.githubusercontent.com/TalhaHabib-hub/TalhaHabib-hub/main/assets/talha-animated.svg" width="380" alt="Talha" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=45&lines=Full-Stack+Developer;Laravel+%2B+React+Enthusiast;Mastering+the+MERN+Stack+%F0%9F%9A%80;AI+%2F+ML+Learner+%F0%9F%A4%96;REC+PMA+155+L%2FC+%F0%9F%8E%96%EF%B8%8F)](https://my-college-portfolio-nu.vercel.app/)
 
