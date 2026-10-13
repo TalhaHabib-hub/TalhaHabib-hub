@@ -28,8 +28,29 @@
 <td valign="top">
 <pre>
 <!--ASCII_START-->
-   (run make_ascii.py with your photo
-    to fill this portrait)
+d0wO0Z00mOZZwm0mOZwqJJzcYQpqbbkkbbZqpdbkdpbb
+mOmZZmZwmOZZmZZZ00v_;I,`',~vmwmZmm0ZZmmqZ0pp
+0OZZdwmZOOmddpdppz^,:iI::,. rOZZZZwqwwmwp0YZ
+ppmOdppqwpppqwpdhY&lt;v0kdwmX{"jLZpqwwpqwwpppCC
+mpqpqpqqpqmpZZdbdqYJn1uU]++{mwwwpwdppqddpqZZ
+wpwZ0ZZZwZQLdwbbpm0m0UZCtv/?JdpwqdbZCcYwpdqw
+hdmqwmpbdcwkbkbqqddZbmJ|]CunpppqqpbZ0LLpppm0
+ddwqqZmdpcahhwpwhhhOJQJr[1jobbdmwddbbkhbdqmp
+dwwpdpmOOOkddhkhadqdXczn(~(mwkbhkwZmwwmZwqmd
+dqmmwp0pkabb0qJn1lv$MO(~~)X[:]fLdpddqwZwqpbk
+hbpqdbkhbj{]&lt;!I;;:ioBQr}nLt'.`^:i_(nLmwpwdkk
+ahkho*oWk,llllii&gt;&gt;I+}f?;-}I,IIlIlI:.imhbpqpk
+dbkhohoB8+:ll!!i&gt;&lt;&lt;l";,`^^;lllllll: tOrZkpba
+ohbpdm%MBc"IIl!!iii!I,^^;IIllil;;:.,0h)+Cdbb
+hhkddo@k&amp;biI;IIIllIlI;;IIIIIIi;,,^ /m#J&gt;}bak
+*oh*h%%q&amp;o]:;I;;;;IllIllI;;:,,"^".:Lm#m1!rhd
+kbkh#@%OWh1::;:;;:;IIIII:,,"^^`^' _LwMwY+cah
+qddp8$%QpJ[l:,,:::;;;:;:,""^`^'`.^~fkWdO[rkh
+pdwk@%MZ}}v_,,,::::::::,""^^'`'' "l-h&amp;bmn[Qp
+ahpMW*wv}Jo-;,",,::::,"""^`'`'.. ,"&lt;coaqL+&lt;-
+kZd8%Wkc)Ow&gt;;,""",,,::"^^^```..  ',&gt;jadqb1&gt;&gt;
+pphB@%#JzqYI:"""",,,,,"^^''''...  "&gt;nM&amp;Wof&lt;&lt;
+o*o@@BBrr#);:"^"""",,,"`'.'''...  "[h$$8p{i!
 <!--ASCII_END-->
 </pre>
 </td>
